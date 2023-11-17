@@ -25,17 +25,17 @@
 				background-repeat: no-repeat;
 			}
 
-			&:first-child {
-				a {
-					background-image: url(../../../assets/images/icons/tw.png);
-				}
-			}
-			&:nth-child(2) {
-				a {
-					background-image: url(../../../assets/images/icons/dr.png);
-				}
-			}
-			&:nth-child(3) {
+			// &:first-child {
+			// 	a {
+			// 		background-image: url(../../../assets/images/icons/tw.png);
+			// 	}
+			// }
+			// &:nth-child(2) {
+			// 	a {
+			// 		background-image: url(../../../assets/images/icons/dr.png);
+			// 	}
+			// }
+			&:nth-child(1) {
 				a {
 					background-image: url(../../../assets/images/icons/gh.png);
 				}
@@ -45,7 +45,7 @@
 			//         background-image: url(../../../assets/images/icons/re.png);
 			//     }
 			// }
-			&:nth-child(4) {
+			&:nth-child(2) {
 				a {
 					background-image: url(../../../assets/images/icons/ma.png);
 				}
