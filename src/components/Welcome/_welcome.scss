@@ -1,0 +1,15 @@
+.loader {
+	font-family: 'Assistant', sans-serif;
+	font-weight: 700;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+
+	span {
+		font-size: clamp(2rem, 3.4vw + 1.3rem, 10rem);
+		user-select: none;
+	}
+}
