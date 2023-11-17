@@ -5,5 +5,5 @@ export const socialLinks = [
 	{ name: 'Dribbble', link: 'https://dribbble.com/Eduard26' },
 	{ name: 'Github', link: 'https://github.com/codewizard337' },
 	// {name: "Resume", link: cv},
-	{ name: 'Mail', link: 'mailto: ibinceanu.eduard@yahoo.com' },
+	{ name: 'Mail', link: 'mailto: tobyadams337@gmail.com' },
 ];
