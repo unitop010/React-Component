@@ -1,21 +1,7 @@
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+This project is a starting point for a React.js application.
 
-# Personal Portfolio
+A few resources to get you started if this is your first Flutter project:
 
-My personal portfolio which features the most recent projects I worked on as well as my resume and technical skills. \
-The website is live **[here.](https://codewizard337.github.io)**
-
-<img src="https://github.com/codewizard337/codewizard337.github.io/blob/master/gif/portfolio.gif">
-
-## Sections 📚
-✔️ About me \
-✔️ Skills \
-✔️ Projects
-
-## Tools Used 🛠️
-* [<b>Visual Studio Code</b>](https://code.visualstudio.com) - A code editor redefined and optimized for building and debugging modern web and cloud applications.
-* [<b>ReactJS</b>](https://reactjs.org) - A JavaScript library for building user interfaces.
-* [<b>Create React App</b>](https://create-react-app.dev) - Project setup.
-* [<b>Framer Motion</b>](https://www.framer.com/motion/) - A production-ready motion library for React.
-* [<b>Sass</b>](https://sass-lang.com) - CSS with superpowers.
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host the static website.
+Lab: Write your first Flutter app
+Cookbook: Useful Flutter samples
+For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
