@@ -36,7 +36,7 @@ export const web = [
 		name: 'Portfolio',
 		date: '2022-05-08',
 		cover: portfolio,
-		links: [{ icon: gitLink, link: 'https://github.com/codewizard337/codewizard337.github.io' }],
+		links: [{ icon: gitLink, link: 'https://github.com/codewizard337/codewizard337-portfolio' }],
 	},
 	{
 		name: 'Livrator.ro',
@@ -59,7 +59,7 @@ export const web = [
 		date: '2021-10-21',
 		cover: cryptocurrency,
 		links: [
-			{ icon: gitLink, link: 'https://github.com/eduardconstantin/Top-three-crypto' },
+			// { icon: gitLink, link: 'https://github.com/eduardconstantin/Top-three-crypto' },
 			{ icon: dribbbleLink, link: 'https://dribbble.com/shots/16701637-Top-three-cryptocurrencies' },
 		],
 	},
@@ -98,7 +98,7 @@ export const web = [
 		date: '2022-09-18',
 		cover: dynamicmenu,
 		links: [
-			{ icon: gitLink, link: 'https://github.com/eduardconstantin/dynamic-menu' },
+			// { icon: gitLink, link: 'https://github.com/eduardconstantin/dynamic-menu' },
 			{ icon: dribbbleLink, link: 'https://dribbble.com/shots/19413730-Dynamic-Menu' }
 		],
 	},
