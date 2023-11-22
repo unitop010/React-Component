@@ -11,6 +11,7 @@ const App = () => {
 	const [currentPage, setCurrentPage] = useState(0);
 	useGaTracker(location);
 
+	
 	useEffect(() => {
 		setBg(generateBackgroundIcons());
 	}, []);
